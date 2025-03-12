@@ -4,7 +4,6 @@ J. Gui, P. Li, "Multi-View Feature Selection for Heterogeneous Face Recognition"
 
 ATTN: This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Jie Gui(guijie@ustc.edu).
 
-Requirement: The package was developed with MATLAB.
 
 
 # Feature Selection Toolbox
